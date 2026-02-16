@@ -1,0 +1,20 @@
+{
+  "name": "tgdcalc",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "TGD Glass Fence Calculator Engine",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "typecheck": "tsc --noEmit"
+  },
+  "keywords": [],
+  "author": "StewArt Media",
+  "license": "UNLICENSED",
+  "private": true,
+  "devDependencies": {
+    "@types/node": "^25.2.2",
+    "typescript": "^5.9.3",
+    "vitest": "^4.0.18"
+  }
+}
